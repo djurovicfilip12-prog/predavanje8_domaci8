@@ -1,0 +1,11 @@
+.circle-lista{
+    list-style: square;
+}
+.romn_letters{
+    list-style-type:upper-roman;
+}
+.lista{
+display:flex;
+list-style: none;
+gap:10px;
+}

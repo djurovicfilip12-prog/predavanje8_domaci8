@@ -1,0 +1,36 @@
+*{
+    margin:0;
+    padding:0;
+}
+.black_back{
+    background-color: black;
+}
+.black_back ul{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap:20px;
+    color: white;
+    height: 45px;
+}
+.image_smaller{
+    width:520px;
+}
+.button_contact{
+    background-color: black;
+    color:white;
+    height: 30px;
+    width: 90px;
+    align-items: center;
+}
+.background_me{
+    display:flex;
+    flex-direction:column;
+    height: 700px;
+    color:black;
+    background-color: #e0dcdcde;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
